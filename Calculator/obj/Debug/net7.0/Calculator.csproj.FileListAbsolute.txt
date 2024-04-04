@@ -1,0 +1,5 @@
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache

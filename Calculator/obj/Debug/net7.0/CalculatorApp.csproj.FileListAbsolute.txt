@@ -1,0 +1,15 @@
+/Users/katlum/Workspace/CalculatorApp/Calculator/bin/Debug/net7.0/CalculatorApp
+/Users/katlum/Workspace/CalculatorApp/Calculator/bin/Debug/net7.0/CalculatorApp.deps.json
+/Users/katlum/Workspace/CalculatorApp/Calculator/bin/Debug/net7.0/CalculatorApp.runtimeconfig.json
+/Users/katlum/Workspace/CalculatorApp/Calculator/bin/Debug/net7.0/CalculatorApp.dll
+/Users/katlum/Workspace/CalculatorApp/Calculator/bin/Debug/net7.0/CalculatorApp.pdb
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/CalculatorApp.csproj.AssemblyReference.cache
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/CalculatorApp.AssemblyInfo.cs
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/CalculatorApp.dll
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/refint/CalculatorApp.dll
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/CalculatorApp.pdb
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/CalculatorApp.genruntimeconfig.cache
+/Users/katlum/Workspace/CalculatorApp/Calculator/obj/Debug/net7.0/ref/CalculatorApp.dll

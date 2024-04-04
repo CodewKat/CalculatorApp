@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+y3JK9Z8aMZiZYK1IK0q8GHBeeu6QwnUtXZohWmkijrnIp5zQ0iEfY5qpEjFahKgY+17MNXWUFWLJqmA6abfFQ==",
+  "dgSpecHash": "EJ/X9qSllW8GowxrvH7KhhravBiZtzQWv06kgMp66N50cWXWw7g1qWh8I40gs4Ee6GUAd5fJWhZkci465xd6pg==",
   "success": true,
-  "projectFilePath": "/Users/katlum/Workspace/CalculatorApp/CalculatorApp/Calculator/Calculator/Calculator.csproj",
+  "projectFilePath": "/Users/katlum/Workspace/CalculatorApp/Calculator/CalculatorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

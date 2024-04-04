@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/katlum/Workspace/CalculatorApp/Calculator/Calculator.csproj": {}
+    "/Users/katlum/Workspace/CalculatorApp/Calculator/CalculatorApp.csproj": {}
   },
   "projects": {
-    "/Users/katlum/Workspace/CalculatorApp/Calculator/Calculator.csproj": {
+    "/Users/katlum/Workspace/CalculatorApp/Calculator/CalculatorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/katlum/Workspace/CalculatorApp/Calculator/Calculator.csproj",
-        "projectName": "Calculator",
-        "projectPath": "/Users/katlum/Workspace/CalculatorApp/Calculator/Calculator.csproj",
+        "projectUniqueName": "/Users/katlum/Workspace/CalculatorApp/Calculator/CalculatorApp.csproj",
+        "projectName": "CalculatorApp",
+        "projectPath": "/Users/katlum/Workspace/CalculatorApp/Calculator/CalculatorApp.csproj",
         "packagesPath": "/Users/katlum/.nuget/packages/",
         "outputPath": "/Users/katlum/Workspace/CalculatorApp/Calculator/obj/",
         "projectStyle": "PackageReference",

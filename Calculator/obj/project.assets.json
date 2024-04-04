@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/katlum/Workspace/CalculatorApp/CalculatorApp/Calculator/Calculator/Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "/Users/katlum/Workspace/CalculatorApp/CalculatorApp/Calculator/Calculator/Calculator.csproj",
+      "projectUniqueName": "/Users/katlum/Workspace/CalculatorApp/Calculator/CalculatorApp.csproj",
+      "projectName": "CalculatorApp",
+      "projectPath": "/Users/katlum/Workspace/CalculatorApp/Calculator/CalculatorApp.csproj",
       "packagesPath": "/Users/katlum/.nuget/packages/",
-      "outputPath": "/Users/katlum/Workspace/CalculatorApp/CalculatorApp/Calculator/Calculator/obj/",
+      "outputPath": "/Users/katlum/Workspace/CalculatorApp/Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/katlum/.nuget/NuGet/NuGet.Config"

@@ -1,20 +1,20 @@
 ﻿using System;
-namespace Calculator
+namespace CalculatorApp
 {
     public abstract class CalculatorBase
     {
 
-        public abstract int Add(int num1, int num2);
+        public abstract double Add(double num1, double num2);
 
 
-        public abstract int Subtract(int num1, int num2);
+        public abstract double Subtract(double num1, double num2);
 
 
 
-        public abstract int Multiply(int num1, int num2);
+        public abstract double Multiply(double num1, double num2);
 
 
-        public abstract int Divide(int num1, int num2);
+        public abstract double Divide(double num1, double num2);
 
 
     }
